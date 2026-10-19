@@ -1,0 +1,204 @@
+Müller Heinrich, Cigarrenhändler, Brandg. 27.
+Müller Franz, Clavierschreiner, Zimmerleutg. 21.
+Müller Christian, Conducteur, An den Gewerbslauben 63.
+Müller Carl, Droguerie-Handlung, Metzgerstr. 16.
+Müller Adam Dr. med., Judengasse 14.
+Müller Friedrich, Droschkenkutscher, Gr. Spitzengasse 12.
+Müller Jac. Friedr., Eigenthümer, Metzgergiess. 20.
+Müller Joseph, Eigenthümer, Rheinstr. 23.
+Müller Michael, Fuhrmann, Rothes Quartier 360.
+Müller Michael, Fuhrmann, Ziegelau 7.
+Müller Jacob, Gärtner, Blaues Quartier 176.
+Müller Joßann, Gärtner, Blaues Quartier 121.
+Müller Franz, Gastwirth, Mittelhausbergerstr. 3.
+Müller Georg, Gastwirth, Kleberpl. 15.
+Müller Joh. Jacob, Gastwirth (Zum goldenen Fass), Sebastopolg. 14.
+Müller Johann, Glaser, Krutenau 6.
+Müller Joseph, Glaser, Colmarerstr 45.
+Müller Adolph, Graveur u. Optiker, Steingässch. 3.
+Müller Friedrich Carl, Graveur, An den Gewerbslauben 52.
+Müller Leonhard, Graveur, Brunnengässch. 3.
+Müller Emil, Gärtler, Verbrannter Hof 13.
+Müller Johann, Gypser, Haagsgässchen 8.
+Müller Hubert, Händler, Neuhof 2.
+Müller Wilhelm, Caffewirth (Müller & Gros), Alter Kornmarkt 20.
+Müller Peter, Kaffee- u. Bierwirthschaft (Kaffee Amsterdamm), Schiffleutstaden 9.
+Müller Georg, Küfer, Rothes Quartier 54.
+Müller Jacob, Kleiderhändler, Kinderspielg. 37.
+Müller Peter, Krämer, Königshofen 66.
+Müller Leo, Kürschner, Langstr. 89.
+Müller Carl, Kunstwollenfabrik., Magdaleng. 18.
+Müller Joseph, Kunstgärtner, Academiestr. 1.
+Müller Martin, Kunstgärtner, Heiritz 16.
+Müller Johann Georg, Kutscher, Ziegelweg 21.
+Müller Joseph, Kutscher, Ziegelau 49a.
+Müller Michael, Kutscher, Alter Fischmarkt 18.
+Müller Heinrich, Lithograph, Grossau 3.
+Müller Michael, Lithograph, Alte Korng. 4.
+Müller Ferdinand, Maler, Goldgiessen 14.
+Müller Jacob, Maler, Ziegelau 35.
+Müller Jacob, Maurer, Finkmattstr. 39.
+Müller Jacob, Maurer, Grasweg 20.
+Müller Wilhelm Maurer, Ziegelau 31.
+Müller Eduard, Mehlhändler, Kaufhausg. 17.
+Müller Jacob, Mehlhändler, Weissthurmstr. 19.
+Müller Joseph, Metzgermstr., Verbrannter Hof 12.
+Müller Phil., Müller geselle, Lingolsheimerstr. 10.
+Müller Simon Friedrich, Musik-Professor, Malvengässchen 1.
+Müller Georg, Ofenmacher, Ochsen gasse 6.
+Müller Alios, Pastetenfabrikant, Judengasse 10.
+Müller Adam, Pech- u. Firnissfabrikant, Neumbruchweg 9.
+Müller Leonhard, Pensionär, Blaues Quartier 5.
+Müller Gilbert, Pfarrer, Rothes Quartier 87.
+Müller Ludwig, Pfarrer, Magdalenen gasse 12.
+Müller Georg, Portier, Metzgergiessen 34.
+Müller Carl, Rentner, Thomannsgasse 15.
+Müller Emil, Rentner, Metzgergiessen 41.
+Müller Martin, Rentner, Artillerie-Wallstr. 4.
+Müller Theodor, Rentner, Domplatz 18.
+Müller Restauration zur Concordia, Gerbergraben 19.
+Müller Johann, Sattlermeister, Kronenburgerstrasse 13.
+Müller Adolph, Sattler, Langstr. 74.
+Müller Rudolph, Schenk wirth, Ziegelweg 15.
+Müller Friedrich, Schiffer, Rothes Quartier 154.
+Müller Georg, Schmiedemeister, Weissthurmstrasse 62.
+Müller Heinrich, Schmied, Ziegelfeldweg 18.
+Müller Johann, Schmid, Rothes Quartier 156.
+Müller Philipp, Schmid, Kirchhofgasse 1.
+Müller Sebastian, Schneidermeister, Weissthurmstrasse 17.
+Müller Eduard, Schneider, Pflanzbadgasse 19.
+Müller Carl, Schreinermeister, Hauer gasse 7.
+Müller August Albert, Schreiner, Colmarerstrasse 24.
+Müller Friedrich, Schreiner, Spitalgasse 26.
+Müller Johann, Schreiner, Drusengasse 4.
+Müller Joseph, Schreiner, Schilligheimer g. 12.
+Müller Carl, Schreiner, Rothes Quartier 17b.
+Müller Michel, Schreiner, Thomannsgasse 10.
+Müller Jacob, Schuhmachermeister, Weissthurmstrasse 7.
+Müller Andreas, Schuhmacher, Tränkgasse 10.
+Müller Heinrich, Schuhm., Ziegelfeldweg 18.
+Müller Jacob, Seiler, Haagsgässchen 3.
+Müller August, Spezereiwaarenh., Langstr.139.
+Müller Bernhard, Spezereiwaarenhändler, Kronenburgerstrasse 3.
+Müller Carl, Spezereiwaarenh., Grossstad elg.18.
+Müller Eduard, Spezereiwaarenhändler, Metzgergiessen 32.
+Müller August, Steinhauer, Neumbruchweg 4.
+Müller Joseph, Stein hauer geselle, Brunnen gasse 6.
+Müller Joseph, Stellmacherm., Kronenburgerstrasse 22.
+Müller Rudolph, Stellmacher, Rothhäuserg. 1.
+Müller Alois, Stroh hut arb., Ziegelauweg 10.
+Müller Wilhelm, Strumpf wirker, Münster g. 23.
+Müller Johann, Stuhl- und Sessel-Fabrikant, Weissthurmstrasse 11.
+Müller Joseph, Tabaks-Arbeiter, Blumenstr. 11.
+Müller Anton, Tagelöhner, Gr. Spitzeng. 15.
+Müller Thibolt, Tagelöhner, Gerbergraben 39.
+Müller Ferdinand, Tagner, Blaues Quartier 36.
+Müller Franz, Tagelöhner, Neuhof 260.
+Müller Franz Joseph, Tagelöhner, Neudorf 53.
+Müller Friedrich, Tagelöhner, Rothes Quart. 84.
+Müller Georg, Tagelöhner, Gr. Spitzengasse 1.
+Müller Jacob, Tagelöhner, Büchergasse 16.
+Müller Jacob, Tagelöhner, Blaues Quart. 144.
+Müller Johann, Tagelöhner, Schilligheimer g. 11.
+Müller Johann Baptist, Tagelöhner, Brunnen gässchen 4.
+Müller Johann Martin, Tagelöhn., Pflanzbadg. 36.
+Müller Joseph, Tagelöhner, Neudorf Kirchw. 3.
+Müller Joseph, Tagelöhner, Brunnen gasse 6.
+Müller Carl, Tagelöhner, Blaues Quartier 62.
+Müller Carl, Tagelöhner, Langstrasse 42.
+Müller Carl, Tagelöhner, Oberziegelauweg 11.
+Müller Leon, Tagelöhner, Rothes Quartier 298.
+Müller Ludwig, Tagelöhner, Lindenfels erg. 8.
+Müller Michael, Tagelöhner, Rothes Quart. 298.
+Müller Philipp, Tagelöhner, Blaues Quart. 106.
+Müller Sebastian, Tagelöhner, Grossau 15 g.
+Müller Daniel, Tagelöhner, Blaues Quartier 62.
+Müller Carl, Waarenhandlung (Bazar), An den Gewerbslauben 29 u. 31.
+Müller Georg, Waschereibesitzer, Zuckergässchen 3.
+Müller Conrad, Wirth, Krebsgasse 11.
+Müller Anton, Zimmermann, Ziegelweg 11.
+Müller Jacob, Zimmermann, Ziegelau 49 a.
+Müller Jacob, Zimmermann, Rothes Quart. 206.
+Müller v., Henriette geb. Stackler Wwe., Pfündnerin, Allerheiligengasse 11 u. 13.
+Müller Annageb. Müller Wwe., Rothes Quart. 5.
+Müller Caroline Wwe., Arbeiterin, Klein frank reich 2.
+Müller Dorothea geb. Jünger Wwe., Arbeiterin, Rothes Quartier 156.
+Müller Caroline geb. Buck Wwe., Arbeiterin, Rothes Quartier 156.
+Müller Margaretha, Arbeiterin, Rothes Quartier 92.
+Müller Salome, Arbeiterin, Blaues Quart. 25 b.
+Müller Therese geb. Weisse Wwe., Gemüse händlerin, Schilligheimer gasse 16.
+Müller Maria geb. Glasser Wwe., Hebamme, Langstrasse 95.
+Müller Julie Wwe., Kurzwaaren - Händlerin, Schlossergasse 18.
+Müller Julie, Langwaaren - Händlerin, An den Gewerbslauben 61.
+Müller Caroline, Leinenwaarenhandlung, Alter Fischmarkt 18.
+Müller Maria, Fräulein, Modistin, Hauer g. 11.
+Müller Salome, geb. Fischer, Wittwe, Nagel händlerin, Langstrasse 33.
+Müller Emilie, Fräulein, Nätherin, Butzengässchen 2.
+Müller Magdalena, Fräulein, Nätherin, Nicolaus gasse 16.
+Müller Marie Frl., Nätherin, Butzengässchen 2.
+Müller Caroline, geb. Wade, Rentnerin, Heidengasse 1.
+Müller Magdalena, Wittwe, Rentnerin, Büchergasse 29.
+Müller Margarethe Barbara, Wittwe, Rentnerin, Steinstrasse 9.
+Müller Salome, Fräulein, Rentnerin, Goldschmiedsgasse 8.
+Müller Salome, Wittwe, Rentnerin, Neukirchplatz 13.
+Müller Sophie, Wittwe, Rentnerin, Metzgerstrasse 19.
+Müller Carolina, Fräulein, Stroh hut macherin, Langstrasse 107.
+Müller Catharina, geb. Sittler, Tabakarbeiterin, Lazarethfeldweg 10.
+Müller Salome, geb. Hahn, Tagner, Blaues Quartier 17a.
+Müller Gertrud, Vorsteherin der Waisenanstalt vom Kind Jesu, Kibitzenwörthweg 1.
+Müller Salome, Wäscherin, Rothes Quart. 321.
+Müller Barbara, geb. Acherick, Wittwe, Lindenfels ergasse 9.
+Müller Catharina, geb. Schultz, Wittwe, Ziegelau 38.
+Müller Josephine, Wittwe, Neuhof 99.
+Müller Salome, geb. Müller, Wittwe, Polygonstrasse 18.
+Müller Münch Franz, Bahnmeister an der Eisenbahn, Kuhnengasse 12.
+Müller Michael, Arbeiter, Blauwolkengasse 6.
+Müller Emil, Buchbinder, Neukirchplatz 6.
+Müller Joseph, Drechslermeister, Korduangasse 15.
+Müller Georg, Drechsler, Bruderhofsgasse 7.
+Müller Joseph, Lehrer, Kleberplatz 2.
+Müller August, Lithograph, Brandgasse 6.
+Müller Ludwig, Maurer, Langstr. 131.
+Müller Carl, Rentner, Neukirchgässchen 2.
+Müller Joseph, Rentner, Kronenburgerstr. 31.
+Müller Johann, Schenk wirth, Weissthurmstr. 3.
+Müller Johann, Schuhmacher, Blaues Quartier 26.
+Müller Wilhelm, Schuhmacher, Blaues Quartier 80.
+Müller Marie Fräul., Pensionsvorsteherin, Nicolausgasse 6.
+Müller Magdalene Wwe., Langstrasse 56.
+Müller Müncher Margaretha, Wwe., Neuhof 235.
+Müller Münchhausen v. Adalbert, Bureau-Vorsteher an der Kaiserl. Zoll-u. Steuer-Direction, Kronenburgerstr. 1.
+Müller August, Bureau-Vorsteher, Blauwolkeng. 7.
+Müller Münck v. Helene. Pfündnerin, Allerheiligengasse 11 u. 13.
+Mündel Emil, Hutmacher, Hauer gasse 12.
+Münder Ludwig, Seiler, Rothäusergasse 17.
+Münich Friedrich, Wirth, Rothes Quartier 26.
+Münke Franz, Bureau-Vorsteher an der Präfectur, Gerbergraben 47.
+Munnet Eugen, Rentner, Pariserstaden 7.
+Munni Emilie, Näherin, Am Katzensteg 1.
+Münsch Friedrich, Wirth, Rothes Quartier 109.
+Münster Fritz, Kutscher, Müller gässchen 2.
+Münter Joh. Heinrich, Ober-Telegraphist, Kaufhausgasse 13.
+Müntz Daniel, Schreinermeister, Schildgasse 4.
+Muermann Heinrich, Tuchhandlung en gros et en detail, Militär-Effecten-Handlung, Meisengasse 8-10.
+Mürsch Martin, Arbeiter, Neuhof 29.
+Mürsch Georg, Kaufmann, Weissthurmstr. 37.
+Mürsch Friedrich, Tagelöhner, Blaues Quartier 123.
+Mürsch Marie, Händlerin, Blaues Quartier 104.
+Müssel Adolph, Klempner, Neue Strasse 2.
+Müsser Jacob, Rentner, Viehgasse 14.
+Müsser Caroline geb. Jost, Specerei hdlrn., Hechten gasse 1.
+Muff Daniel, Gärtner, Rothes Quartier 122.
+Muff Friedrich, Friseur, Gr. Stadelgasse 3.
+Mugenot Joseph, Tagelöhner, Hechtengasse 1.
+Muhlberg Georg, Tagelöhner, Hechtengasse 1.
+Muckensturm Henriette, Wwe., Pflanzbad 1.
+Mühlte Josephine Wwe, Plätterin, Mühlg. 14.
+Mulck Heinrich, Tapezierer, Bischheimer gässch. 7.
+Mummer Franziska geb. Steigel Wwe., Obsthdlrn., St. Helengasse 5.
+Munch Anton, Fabrik-Aufseher, Königshofen 96.
+Mundorf Otto, Hauptmann im Württ. Inf.-Reg. No. 126, Metzgergiessen 34.
+Mungonast Joseph, Zimmermann, Langstr. 50.
+Munsch Anton, Küfer, Spitalgasse 18.
+Munsch Joseph, Portier, Nicolausstaden 8.
+Munfurt Carl Jos., Schuhflicker, Tucherstubg. 15.

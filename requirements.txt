@@ -1,0 +1,9 @@
+Levenshtein
+numpy
+pandas
+dotenv
+tqdm
+aiohttp
+nest_asyncio
+unidecode
+weighted-levenshtein

@@ -1,0 +1,216 @@
+Metz Andreas, Droschenkutscher, Lingolheimer-strasse 9a.
+Metz Johann, Gärtner, Blaues Quartier 11.
+Metz Carl, Mehl- und Productenhändler, Alte Kornstrasse 4.
+Metz Mathias, Möbelhdlr., Alte Weinmarktstr. 28.
+Metz August, Papierfabrikant, Rothes Quart. 39b.
+Metz August, Schornsteinfegermeister, Weissthurmstr. 21.
+Metz Andreas, Schuhmacher, Lazarethfeldweg 7.
+Metz Carl, Tagelöhner, Rothes Quartier 298.
+Metz Philipp, Tagelöhner, Blaues Quartier 93a.
+Metz Emil, Uhrmacher, Rabenplatz 2.
+Metz Xaver August, Wachswaren-Fabrikant, Hauergasse 4 u. 6.
+Metz Katharina, Arbeiterin, Poldusweg 3.
+Metz Katharina, Gastwirthin, Königshofen 85.
+Metz Fanny, Rentnerin, Goldschmiedsgasse 11.
+Metz Caroline, Wittwe, Wäscherin, Gr. Spitzengasse 12.
+Metz Anna Maria geb. Schröder Wwe., Musau 16.
+Metz Eugenie geb. Winter Wwe., Grossau 15c.
+Metzendim Max, Baumeister, Stephansplan 15.
+Metzger Otto, Steuerausheber, Eisenbahnstr. 1.
+Metzger Michael, Ackersgärtner, Zabererwallstr. 30.
+Metzger Carl, Arbeiter, Drusengasse 4.
+Metzger Michael, Aufseher, Heuplatz 2.
+Metzger Eduard, Bremer, Leinengasse 24.
+Metzger Wilhelm, Cigarrenhändler, Kalbsgasse 16.
+Metzger Friedrich, Fischer, Rothes Quartier 24.
+Metzger Michael, Fuhrmann, Im Rüdig 4.
+Metzger Georg, Schneider, Knoblochsgasse 15.
+Metzger Friedrich, Schreiner, Büchergasse 16.
+Metzger Daniel, Specerei händler, Schuhmacherweg 4.
+Metzger Joseph, Steinhauer, St. Urbanweg 14bis.
+Metzger Gustav, Tagelöhner, Langstr. 8.
+Metzger Xaver, Tagelöhner, Blaues Quartier 137.
+Metzger Sophie Wwe., Haushälterin, Mühlang. 16.
+Metzger Delphine Frl., Kuchenbäckerin, Kinderspiel-gasse 45.
+Metzger Magdalena geb. Houtot Wwe., Pfründnerin, Allerheiligengasse 11 u. 13.
+Metzger Fanny Wwe., Rentnerin, Langstr. 84.
+Metzig Cuno, Eisenbahnsecretär, Büchergasse 41.
+Metziger Friedrich, Fischer, Rothes Quartier 51.
+Metzinger Georg, Schreiner, Thomasgässchen 9.
+Metzinger Barbara geb. Isemann Wwe., Grasweg 9.
+Metzker Hans, Rentner, Schiffleustaden 47.
+Metzmacher Wilhelm, Schreiner, Büchergasse 5.
+Metzmeier Andr., Zugführer, Blindeng. 12 u. 14.
+Metzner Johann, Schreiber, Colmarestr. 41.
+Metzner Emil, Schieferdeckermeister, Metzger-giessen 13.
+Metzner Friedrich, Strassenarbeiter, Ziegelweg 25.
+Meule Franz, Postsecretär, Metzgerstr. 4.
+Mey Simon, Schnittwaarenhandlung, An den Gewerbslauben 87.
+Mey Anton, Schuhmacher, An der Gewerbsl. 44.
+Meyblum Carl, Specereihändler, Fischerstaden 1.
+Meyer Paul, Bureau-Vorsteher an der Magdeburgischen Feuerversicherungs-Gesellschaft, Küfergasse 13.
+Meyer Carl Emil, Eisenbahnbeamter, Colmarestrasse 9a.
+Meyer Isaak, Inspektor der Lebensversicherung, Alter Kornmarkt 16.
+Meyer Franz, Ladenmeister an der Güter-Expedition, Weissthurmstrasse 56.
+Meyer Eduard, Landforstmeister, Kronenburger-strasse 27.
+Meyer Carl, Steuer-Beamter, Münsterplatz 5.
+Meyer Theophil, Steuerbeamter, Thomaspl. 1.
+Meyer Anton, Ackerer, Blaues Quartier 77.
+Meyer Franz Anton, Ackerer, Blaues Quartier 56.
+Meyer Johann, Ackerer, Rothes Quartier 98.
+Meyer Alfred, Advokat, Schuhmacherstrasse 5.
+Meyer Cathalin, Agent der Kaufmannschaft, Spiessgasse 3.
+Meyer Adolph, Arbeiter, St. Nicolausplatz 4.
+Meyer Anton, Arbeiter, Rothhäusergasse 21.
+Meyer Georg, Arbeiter, Artillerie-Wallstr. 8.
+Meyer Johann, Arbeitsmann, Mühlanggasse 15.
+Meyer Johann, Arbeiter, Neuhof 34.
+Meyer Louis, Arbeiter, Nardengasse 1.
+Meyer Wilhelm, Arbeiter, Rothhäusergasse 17.
+Meyer Gottfried, Architect, Capaunen-Wallstr. 5.
+Meyer Victor, Barbier, Polygonstrasse 16.
+Meyer Leopold, Bremser, Langstrasse 57.
+Meyer Johann, Büreaudiener, Langstrasse 46.
+Meyer Joh. Christian, Bürstenmacher, Langstr. 133.
+Meyer & Aberle, Colonialwaarenhändler en gros, Magdalenenstrasse 25.
+Meyer Abraham, Colporteur, Grosse Stadelg. 8.
+Meyer Michael, Dienstmann, Grosse Stadelg. 18.
+Meyer Felix, Dienstmann, Mühlanggasse 9.
+Meyer Jerome Joseph, Dienstmann, Schlutfeld 2.
+Meyer Georg, Droschkenkutscher, Knoblochsg. 13.
+Meyer Leon, Fuhrmann, Sonneng. 4.
+Meyer Jacob, Gastwirth, Kleberplatz 16.
+Meyer Nicolaus, Gastwirth (Hotel zum schwarzen Bären), Metzgerstr. 17.
+Meyer Friedrich, Gärtner, Königshofen 69.
+Meyer Johann, Gärtner, Rothes Quartier 34.
+Meyer Anton, Gemüsehändler, Goldgiessen 12.
+Meyer Eduard, Geschäftsführer im Tivoli, Contades 15.
+Meyer Moses, Gimpler, Kinderspielg. 3.
+Meyer Carl, Handelsmann, Heuplatz 2.
+Meyer Max, Handelsmann, Langstr. 79.
+Meyer Jacob, Kutscher, Spitalstr. 10.
+Meyer Ludwig, Kutscher, Metzgerstr. 17.
+Meyer Philipp, Kutscher, Polygonstr. 42.
+Meyer Jacob, Leimsieder, Elsaau 33.
+Meyer Halley, Mäckler, Metzgerstr. 17.
+Meyer Franz, Maurer, Rothes Quartier 32.
+Meyer Joseph, Maurer, Magnetengasse 3.
+Meyer Joseph, Mechaniker, Knoblochsgasse 26.
+Meyer Adolph, Mehlhandlung, Küfergasse 2.
+Meyer Joseph, Metzgermeister, Schwestergr. 11.
+Meyer Michael, Möbelhändler, Alte Weinmarkt-strasse 10.
+Meyer August, Nagelschmied, Barbaragasse 23.
+Meyer Jacob, Oberaufseher, Weisses Quart. 61 I.
+Meyer Carl, Pfarrer an der St. Aurelienkirche, St. Aureliengasse 11.
+Meyer Ludwig, Rasirer, Oberziegelauweg, 4.
+Meyer Carl, Reisender, Spiessgasse 3.
+Meyer Edmund, Rentner, Königshofen 78.
+Meyer Friedrich, Rentner, Kuppelgässchen 4.
+Meyer Friedrich, Rentner, Rothes Quartier 23.
+Meyer Georg, Rentner, Rothes Quartier 208.
+Meyer Heinrich, Rentner, Rothes Quartier 6.
+Meyer Jean, Rentner, Metzgergiessen 39.
+Meyer Joseph, Rentner, Schiffleustaden 32.
+Meyer Joseph, Rentner, Rothes Quartier 185.
+Meyer Michael, Sattler, Metzgerpl. 12.
+Meyer August, Schenkwrith, Colmarestr. 9.
+Meyer Carl, Schenkwrith, Alte Weinmarktstr. 40.
+Meyer Johann, Schenkwrith, Hennengasse 26.
+Meyer Johann, Schiffbauer, Metzgerau 10.
+Meyer Johann, Metzgermstr., Heiligenlichterg. 13.
+Meyer Leopold, Metzgermstr., Heiligenlichterg. 13.
+Meyer Carl, Schlosser, Kleine Stadelgasse 8.
+Meyer Georg, Schlosser, Artilleriewallstr. 8.
+Meyer Mathias, Schmied, Wo der Fuchs den Enten predigt 16.
+Meyer Conrad, Schneidermeister, Nicolausgasse 5.
+Meyer Joseph, Schneider, Kl. Spitzeng. 3.
+Meyer Jos., Schreinermeister, Weissthurmstr. 64.
+Meyer Louis, Schreinermeister, Kinderspielg. 13.
+Meyer Alfred, Schreiner, Hauergasse 13.
+Meyer Johann, Schreiner, Metzgergiessen 40.
+Meyer Nicolaus, Schreiner, Capaunengässch. 8.
+Meyer Jacob, Schriftsteller, Neumunbruchweg 7.
+Meyer Nicolaus, Schuhmachermeister, Weissthurmstr. 16.
+Meyer Andreas, Schuhmachermeister, Kronenburgerstr. 17.
+Meyer Joseph, Schuhmachermeister für Herren u. Damen, Corduang. 17.
+Meyer Carl, Schuhmacher, Jung St. Peterpl. 6.
+Meyer Franz, Schuhmacher, Schlüthigheimergr. 13.
+Meyer Jacob, Schuhmacher, Krutenau 32.
+Meyer Theodor, Schuhmacher, St. Heleneng. 19.
+Meyer Carl, Seilermeister, Kaufhausstr. 15.
+Meyer August, Seiler, Gaulstaden 3.
+Meyer Carl, Seiler, Ballhausg. 19.
+Meyer Carl & Michael, Seilerfabrikanten, Kaufhaus-gasse 15.
+Meyer Jacob, Seiler, Krebsgasse 13.
+Meyer Georg Baptist, Spitzenhändler, Kalbsg. 2.
+Meyer Joseph, Strohutarbeiter, Mühlenstaden 1.
+Meyer Andreas, Tagelöhner, Rothes Quart. 304b.
+Meyer Anton, Tagelöhner, Lindenfelsgr. 9.
+Meyer Anton, Tagelöhner, Neuhof 142.
+Meyer Gustav, Tagelöhner, Wo der Fuchs den Enten predigt 6.
+Meyer Carl, Tagelöhner, Blaues Quartier 132.
+Meyer Michael, Tagelöhner, Blaues Quartier 177.
+Meyer Peter, Tagelöhner, Pflanzbadg. 26.
+Meyer Vincent, Tagner, Colmarestr. 56.
+Meyer Friedrich, Vorarbeiter im Eisenbahn-Telegraphen-Büreau, Heideng. 4.
+Meyer Theodor, Wurstlermeister, Steinstr. 7.
+Meyer Anton, Wirth, Blaues Quartier 54.
+Meyer Marie Anna, Hebamme, Schwestergr. 14.
+Meyer Franziska, Kaufmännin, Blaues Quart. 83.
+Meyer Salome geb. Erhardt Wwe., Kohlenhändlerin, Wo der Fuchs den Enten predigt 16bis.
+Meyer Josephine Fräul., Näherin, Gerbergr. 47bis.
+Meyer Caroline Fräul., Papierhändlerin, Gerber-graben 4.
+Meyer Virginie geb. Bauchendre, Pensionärin, Blaues Quartier 15.
+Meyer Henriette Fräul., Rentnerin, An den Gewerbslauben 46.
+Meyer Salome geb. Schott Wwe., Rentn., Elsaau 25.
+Meyer Sybilla geb. Hoffmann Wwe., Rentnerin, Rothes Quartier 9.
+Meyer Henriette, Tabakshändlerin, Krutenau 2.
+Meyer Louise unv., Königshofen 82.
+Meyer Josephine Wwe., Metzgerplatz 15.
+Meyer Katharina geb. Binder Wwe., Colmarestr. 56.
+Meyer Salome geb. Schott Wwe., Elsaau 24.
+Meyerhofer Salome geb. Hahn Wwe., Neudorf-Kirchweg 7.
+Meyküchel Jacob, Müllergeselle, Langstr. 10.
+Meyli Heinrich, Tagelöhner, Schlosserg. 7.
+Mayöl Joseph, Tagelöhner, Grasweg 3.
+Mawes Friedrich, Rentner, Fegasse 9.
+Mawes Sophie, Rentnerin, Blauwolkenstrasse 12.
+Michael Louis, Arbeiter, Blaues Quartier 105 a.
+Michael Ludwig, Fabrikaufseher, Sengewaldgasse 2.
+Michael Abraham, Kleiderhdlr., Heiligenlichterg. 6.
+Michael Heinrich, Portier, Langstr. 126.
+Michaelis Theodor, Ober- u. Corps-Auditeur, Spiessgasse 25.
+Michaelis Adolph, Professor, Laternengasse 6.
+Michaelis Charlotte, Pfründnerin, Allerheiligengasse 11 u. 13.
+Michel Carl, Ackersmann, Oberziegelauweg 9.
+Michel Carl, Bierbrauer, Grossau 18.
+Michel Johann Carl, Conditor u. Pastetenbäcker, Goldschmiedsgasse 9.
+Michel Friedrich, Feilenhauer, Gr. Spitzengasse 66.
+Michel Andreas, Gärtner, Rothes Quartier 138 d.
+Michel Emil, Gold- u. Silberwaarenhandlung, An den Gewerbslauben 37.
+Michel Julius, Handelsagent, Langstr. 142.
+Michel Michael, Hausirer, Büchergasse 23.
+Michel Jacob (Sohn), Hotelbesitzer (Hotel z. Pflug) Steinstr. 35.
+Michel Anton, Kohlenhändler, Capaunengässch. 4.
+Michel Johann, Kunststoffabrikant, Langstr. 19.
+Michel Daniel, Lumpen- u. Wollhdlr., Hahnerg. 2.
+Michel Philipp, Lumpenhändler, Henneng. 8.
+Michel Johann Wilhelm, Maler, Schwestergr. 15.
+Michel August (Sohn), Oelhandlung en gros, Stein-strasse 35.
+Michel Johann Carl, Pastetenbäcker, Kesselg. 2.
+Michel Louis, Pastetenbäcker, Goldschmiedsg. 1.
+Michel J., Rentner, Magdalenenstrasse 2.
+Michel Johann, Rentner, Nicolausstaden 11.
+Michel Johann Daniel, Rentner, Schiffleustad. 17.
+Michel Johann Georg (Vater), Rentn., Steinstr. 35.
+Michel Johann, Schuhmacher, Gr. Spitzengasse 6.
+Michel Johann, Tabakshändler, Nicolausgasse 5.
+Michel Salome Frl., Gemüsehändlerin, Gr. Stadel-gasse 25.
+Michel Katharine Wwe., Krankenwärterin, Spital-gasse 24.
+Michel Sophie geb. Acker, Wwe., Leihbibliothek-laden, Gerbergraben 55, (Geschäft: Gewerbs-laubenstrasse 9).
+Michel Maria geb. Freiss, Wwe., Rentn., Zimmer-leutgasse 7.
+Michel Maria geb. Walter, Tagelöhnerin, Gerber-graben 49bis.
+Michl Eugen, Brückenwärter, Wacken 10.
+Micklise Heinrich, Huthändler, Langstrasse 146.
+Mieh Carl, Rentner, Kleine Metzgerstr. 5.
+Mieters Ferdinand, Hauptkassen-Rendant, Alter St. Peterplatz 9.

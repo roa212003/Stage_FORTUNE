@@ -1,0 +1,3 @@
+- Les chemins de fichiers à modifier si nécéssaire sont dans le fichier control_utils.py tout en bas ;
+- puisque le contrôle se fait avec les portions de texte retournés par le LLM, j'ai rajouté les fichiers contenant le extrais de texte des années 1873 - 1900 dans ctrl_files/text/ ;
+- les fichiers csv (1873 - 1900) à valider sont dans le dossier ctrl_files/csv/.

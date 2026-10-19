@@ -1,0 +1,227 @@
+Klein Jacob, Bauunternehm., Henneng. 18.
+Klein Alexand., Bedienter, Rothes Quart. 29b.
+Klein Anton, Bierbrauerges., Langstr. 8.
+Klein Georg, Droschkenkutsch., Kronenb. 1.
+Klein Aug., Eisenschleifer, Lindenfelserg. 7.
+Klein Franz, Färber, St. Ludwigsgasse 20.
+Klein Johann, Fuhrmann, Lombardwörthw.19.
+Klein Georg, Gärtner, Rothes Quartier 49.
+Klein Nicol., Gärtner, Blaues Quartier 169.
+Klein Gebrdr., Gerber, Pflanzbadg. 20.
+Klein Baruch, Glaser, Geschäft: Gerberg. 5, Wohn.: An den Gewerbslauben 23.
+Klein Theobald, Küfer, Neudorf 57.
+Klein Christian, Maurer, Polygonerstr. 28.
+Klein Carl, Metzger, Neuhof 106.
+Klein Carl, Metzger, Polygonerstr. 24.
+Klein Georg, Metzger, Langstr. 64.
+Klein Ferdin., Musiker, Hint. d. Mauern 14.
+Klein Ludw., Müllergeselle, Mühlenengasse 15.
+Klein Georg, Melker, Neuhof 102.
+Klein Ignaz, Melker, Neuhof 98.
+Klein Aug., Posthalter, St. Johannesstad.41.
+Klein Jacob, Rentner, Rothes Quartier 85.
+Klein Aloys, Rentner, Judengasse 20.
+Klein Eugen, Rentner, Alte Weinmarktstr. 31.
+Klein Jacques, Rentner, Metzgerstrasse 17.
+Klein Joseph, Reisender, Laternengasse 6.
+Klein August, Sattlermstr., Gr. Kirchgasse 8.
+Klein Carl, Sattler, Alter Fischmarkt 32, 34.
+Klein Florenz, Schenkwirth, Neuhof 32.
+Klein Gustav, Schiffer, Mühlenstanden 1.
+Klein Carl, Schlossermstr., Weissthurmstr. 20.
+Klein Carl, Schlosser, Neudorf 67.
+Klein Franz Joseph, Schneider, Alte Weinmarktstrasse 22.
+Klein Louis, Schneider, Neuhof 96/95.
+Klein Philipp, Schneider, Nicolausgasse 9.
+Klein Anton, Schneider, Kinderspielgasse 36.
+Klein Louis, Schneider, Neuhof 95.
+Klein Carl, Schuhmacher, Stephansplan 13.
+Klein Ignaz, Schuhmacher, Neuhof 88.
+Klein Carl, Schuhmacher, Kleine Stadelgasse 18.
+Klein Carl, Schuhmach., An d. Gewerbslaub. 10.
+Klein Jean, Schuhmacher, Metzgerstr. 18.
+Klein Joseph, Schuhmacher, Regenbogeng. 21.
+Klein Jacob, Schuhmacher, Schilligheimerg. 7.
+Klein Nicolaus, Schuhmacher, Ochsenengasse 8.
+Klein Heinrich, Specereihändler, St. Ludwigsg.5.
+Klein Franz, Specereihändler, Kl. Renn. 15.
+Klein Emil, Spitzen- u. Weisswaarenhandlung, Goldschmiedsgasse 28.
+Klein Franz, Tabaks- u. Pfeifenhändler, Münsterplatz 10.
+Klein Friedrich, Tapezierer, Alte Kornsgasse 5.
+Klein Carl, Tischler, Blaues Quartier 122.
+Klein Christian, Tischler, Rothes Quartier 260b.
+Klein Ludwig, Tischler, Rothes Quartier 134.
+Klein Wilhelm, Tischler, Knoblochsgasse 9.
+Klein Wilhelm, Tischler, Ballhausgasse 16.
+Klein Mathias, Tischler, Magdalenengasse 25.
+Klein Mathias, Tischler, Hennengasse 24.
+Klein Edmund, Tischler, Krebsgasse 24.
+Klein Michael, Vergolder, Goldgiessen, 22.
+Klein Theophil Friedrich, Vergolder, Schneidergraben 6.
+Klein Felix, Tagelöhner, Gaulstaden 11.
+Klein Georg, Zimmermann, Fischerstr. 11.
+Klein Ludwig, Zimmerm., Rothes Quartier 165
+Klein Jacques, Zimmermann, Kleine Austerlitzst.3.
+Klein Jacob, Tagelöhner, Blaues Quartier 142.
+Klein Daniel, Tagelöhner, St. Helenengasse 25.
+Klein Carl, Tagelöhner, Rothes Quartier 237.
+Klein Carl, Tagelöhner, Rothes Quartier 203.
+Klein Ludwig, Tagelöhner, Magnetengasse 3.
+Klein Anton, Tagelöhner, Magnetengasse 25.
+Klein Georg, Tagelöhner, Büchergasse 16.
+Klein Georg, Tagelöhner, Grossau 12.
+Klein Johann, Tagelöhner, Neuhof 177.
+Klein Simon, Tagelöhner, Neuhof 100.
+Klein Sebastian, Tagelöhner, Neuhof 203.
+Klein Andreas, Tagelöhner, Neuhof 203.
+Klein Margarethe, Näherin, Goldschmiedsgasse 15.
+Klein Magdalene, Rentnerin, Goldgiessen 17.
+Klein Louise, Rentnerin, Krebsgasse 24.
+Klein Annette, Stickerin, Metzgerstr. 4.
+Klein Margarethe Wwe., Judengasse 6.
+Klein Cicilie Wwe., Neuhof 114.
+Klein geb. Boersch Karoline Wwe., Goldgiess. 8.
+Klein geb. Jannesson Elisabeth Wwe., Kalbsg. 9.
+Klein Rosalie Wwe., Langstrasse 90.
+Klein Margarethe Wwe., Fischerstr. 12.
+Klein Salome Wwe., Alter Fischmarkt 3.
+Klein Michael Wwe., Neuhof 23.
+Klein Therese Wwe., Neuhof 125.
+Klein geb. Mager Christine Wwe., Brunnenplatz bei den gedeckten Brücken 5.
+Klein Salome Wwe., Schlosserergasse 23.
+Klein geb. Goetz Marie Wwe., Kronenburgerstr.13.
+Klein Friederike Wwe., Mühlenengasse 24.
+Klein Louise Wwe., Kronenburgerstrasse 20.
+Klein geb.Haas Dorothea Wwe., Schlachthausst.4.
+Klein Margarethe Wwe., Rothes Quartier 93.
+Klein geb. Wolff Eva Wwe., Brumatherstr. 2.
+Klein geb. Kiefer Salome Wwe., Rothes Quart.178.
+Klein geb. Jung Magdalene Wwe., Gr. Renn. 24.
+Kleinbrod Siegfried, Uhrmacher, Brandgasse 23.
+Kleinert Florian, Tagelöhner, Schilligheimerg.23.
+Kleinklaus Jacob, Schenkwirth, Neuhof 275.
+Kleinknecht Gg., Specereihdlr., Pergamenterg. 7.
+Kleinmann Bartholomäus, Tagelöhner, Fegg. 22.
+Klein Mathias, Tagelöhner, Rothes Quartier 181c.
+Kleinpeter Joseph, Bureauclienier, Hinter den Mauern 17.
+Klein Ludwig, Tagelöhner, Grünerberg 2.
+Klein Marie, Näherin, Spiegelg. 4 & 6.
+Klein Marie, Metzgergiessen 11.
+Klein Marie Wwe., Ochsenengässchen 2.
+Kleint Johann Edouard, Stations-Assistent, Alte Weinmarktstr. 18.
+Kleist v. Leopold, Premier-Lieut. im Neumärk. Dragoner-Regiment No. 3 und Adjutant der Cavallerie-Brigade, Alte Weinmarktstr. 20.
+Kleitz Joseph, Korbmacher, Blumenstanden 11.
+Klemann Conr., Tischlergesell, Kegeneckerstr. 20.
+Kleres Conrad, Weichensteller, Steinstrasse 18.
+Klett Carl, Buchhalter a. d. Departements-Hauptkasse, Wilhelmerstr. 21.
+Klieber Medardus, Schneidermstr., Kuhneng. 16.
+Klieber Anton, Tagelöhner, Neuhof 19.
+Kliemas Paul, Kanzlist an der Eisenb., Heideng.1.
+Kliesrath Jacob, Kostgeber, Wilhelmerstr. 5.
+Kliever Paul, Buchhalter, Metzgergiessen 35.
+Klimantowsky Moritz, Schneidermstr., Gr. Stadelgasse 31.
+Klimpeter Georg, Büreaudiener, Metzgergiessen 27.
+Klimpeter Michael, Metzger, Wo der Fuchs den Enten predigt 10.
+Klinck Zacharias, Schuhmacher, Krebsgasse 3.
+Kling Joseph, Brauereibesitzer, Langstr. 55.
+Kling Ignaz, Rentner, Blaues Quartier 29.
+Kling Philipp, Rentner, Blaues Quartier 29.
+Kling Franz, Reisender, Fischerstaden 16.
+Kling Joseph, Schreinermeister, Hahnenegasse 10.
+Kling Carl, Tagelöhner, Luzarethweg 2.
+Kling Fanny Wwe., Judengasse 28.
+Klinger Carl, Bauverwalter, Tränkgasse 12.
+Klinger Josephine, Hebamme, Goldgiessen 7.
+Klinger Marie, Hebamme, Goldgiessen 7.
+Klinger Karoline geb. Bachmann Wwe., Hebamme, Goldgiessen 7.
+Klinghammer Daniel, Ackerer, Blaues Quartier 166.
+Klinghammer Jacob, Ziegler, Spitalgarten 61.
+Klingler Julie, Näherin, Gerbergraben 35.
+Klink August, Schuhmacher, Krebsgasse 20.
+Klink Gottlieb, Ziegeleibesitzer, Steinstr. 12.
+Klinksieck Ludwig, Kustos an der Kais. Univers., Landes-Bibliothek, Kalbsgasse 14.
+Klinz Johann, Weber, Lingolsheimerstr. 7.
+Klipffel Franz, Pastetenbäcker, Gr. Kirchgasse 1.
+Klipffel Friedrich, Rentner, Eisernemannspl. 1.
+Kloehren Adam, Malermeister, Gr. Rennengasse 20.
+Kloepffer Erasmus, Secretär bei der Intendantur, St. Nicolausplatz 3.
+Klötzner August, Kasernenwärter, Margarethen-Kaserne.
+Klog Joseph, Rentner, Alter Fischmarkt 20.
+Klopfer Johann, Rentner, Artillerie-Wallstr. 3.
+Klopffer Johann, Rentner, Knoblochsgasse 12.
+Klose Alexander, Director der Versicherungs-Gesellschaft für Unter-Elsass, Stephansplan 7.
+Klose Eduard, Bankier, Thomassstaden 2.
+Klose Gustav, Strohutmacher, St. Heleneng. 21.
+Kloss Wilhelm, Post-Conducteur, Artillerie-Wallstrasse 3.
+Kloster Leopold, Bahnhofs-Assistent, Königshofen 100.
+Klotz Hermann, Oberst u. Festungs-Ingenieur, Weisses Quartier 20.
+Klotz Gustav, Dom-Baumeister, Schlossplatz 3.
+Klotz Georg, Beamter bei der Steuer, Höllenfegergasse 1.
+Klotz Theophil, Maler, Rothes Quartier 68.
+Klotz Johann, Tagelöhner, Büchergasse 16.
+Klotz Babette geb. Wachette, Rentnerin, Judengasse 13.
+Klüper Heinr., Maschinist, Alte Weinmarktstr. 34.
+Klug Franz, Buchbinder, Schwesterengasse 14.
+Klug Heinrich, Schreiner, Hinter den Mauern 20.
+Klug Caroline, geschworene Magdverdingerin, Schwesterengasse 14.
+Klugoshertz Theodor, Specereihändler, St. Urbanweg 18c.
+Klughesty Friedrich, Factor in d. Buchdruckerei, Küfergasse 18.
+Klump Margarethe, Grüner Berg 13.
+Knab August, Gemüsehändler, Spitalgasse 5.
+Knaebel Catharina Wwe., Pflanzbadgasse 21.
+Knaier Christian, Küfermeister, Gr. Spitzeng. 3.
+Knapp Heinr., Ingenieur an der Eisenbahn, Schiffleutstaden 16.
+Knapp Carl, Ackerer, Rothes Quartier 271.
+Knapp Johann, Bronze-, Farben- und Blattmetallfabrik, Metzgergiessen 4.
+Knapp Georg, Tagelöhner, Blaues Quartier 163.
+Knapp Andreas, Tagelöhner, Blaues Quartier 116.
+Knapp Georg, Tagelöhner, Rothes Quartier 125.
+Knapps Johann, Schneider, Münstergasse 29.
+Knaps Nicolaus, Schneider, Pergamentergasse 7.
+Knarr Friedrich, Holzbildhauer, Rheinstr. 8.
+Knaub Johannes, Hauptzollamts-Controleur, An den Gewerbslauben 50.
+Knaub Joseph, Tagelöhner, Neudorf 78.
+Knauber Heinrich, Commis, Kaufhausgasse 17.
+Knauer Philipp, Aufseher, Neuhof 276.
+Knaus Ludwig, Schiffer, Breuschstaden 5.
+Knauss Vincens, Fischer, Blaues Quartier 4c.
+Knecht Friedrich, Gärtner, Rheinstr. 14.
+Knecht Georg, Gärtner, Rothes Quartier 281.
+Knecht Friedrich Carl, Pensionär, Rothes Qrl. 279.
+Knecht Jacob, Tagelöhner, Rothes Quartier 29b.
+Knecht Amalie Louise, Lehrerin, St. Heleneng. 4.
+Knecht Magdalene, Hausaufseherin, Weisses Qrt.23.
+Knecht Salome geb. Sturm Wwe., Gärtnerin, Weisses Quartier 32.
+Knehr Ludwig, Gastwirth, Knoblochsgasse 9.
+Kneib Carl, Locomotivführer, Büchergasse 27.
+Kneiding Sophie, Lehrerin, Königshofen 74.
+Kneifler Wilh., Tuchmacher, Rothes Quart. 109.
+Knesbeck v. Baron, Lieutenant im 15. Ulanen-Reg., Stephansplan 15.
+Kneteler Matern, Tagelöhner, Rothes Quart. 9.
+Kney Louis Simon, Lumpenhändler, Tücherstubgasse 3.
+Knierim Georg Daniel, Schneider, Gerbergrab. 45.
+Knipper Carl, Secretär, Alt St. Peterplatz 2.
+Knipper Johann Georg, Schneidermeister, Gerberplatz 6-7.
+Knirin Ludwig, Gemüsehändler, Blindengasse 9.
+Knittel Albert, Agentur-Commission, Allerheiligengasse 8bis.
+Knittel Michael, Holzwaarenhändler, Corduang. 3.
+Knittel Emil, Typograph, Hennengasse 14.
+Knittel Victoria, Büglerin, Judengasse 13.
+Knobloch Joseph, Schmied, Schilligheimerg. 3.
+Knöchel Julius, Kasernen-Inspector, Austerlitzstrasse 15.
+Knoderer Eugen, Brauereibesitzer, Metzgerpl. 14.
+Knoderer Carl, Brauereibesitzer, Metzgerpl. 14.
+Knoderer Gustav, Gerbermeister, Langstr. 48.
+Knoderer Gustav, Gerbermeister, Langstr. 64.
+Knoderer Gustav, Gerberei u. Badeanstalt, Mühleneng.6.
+Knoderer Albert Wilhelm, Gerber, Mühlgeng. 6.
+Knoderer Albert, Gerber, Im kleinen Frankreich 2.
+Knoderer Philipp, Rentner, Rothes Quartier 6.
+Knoderer Theodor, Rentner, Im kleinen Frankreich 2.
+Knoderer Theodor Carl, Rentner, Mühlenengasse 6.
+Knoderer Ludwig, Rentner, Kalbsgasse 14.
+Knoderer Carl, Rentner, Gr. Spitzengasse 12.
+Knoderer August, Rentner, Alter Fischmarkt 12.
+Knoderer Emilie Wwe., Meisengasse 26.
+Knoderer Pauline, Lehrerin, Elisabethergasse 3.
+Knoerle Carl, Münstergasse 11.

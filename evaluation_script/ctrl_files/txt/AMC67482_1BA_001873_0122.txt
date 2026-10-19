@@ -1,0 +1,215 @@
+Schmitt Dominikus, Portner, Jung St. Peterplatz 1.
+Schmitt Paul, Reisender, Hinter den Mauern 8.
+Schmitt Sebastian, Seiler, Neufeldweg 6a.
+Schmitt Carl, Seiler, Neumünbruchweg 6c.
+Schmitt Carl, Sergeant, St. Nicolausplatz 4.
+Schmitt Johann, Steinhauer, Bruckhof 5.
+Schmitt Philipp, Schuhmacher, Hennengasse 14.
+Schmitt Johann, Schuhmacher, Polbusweg 3.
+Schmitt Friedrich, Schmied, Ziegelau 34d.
+Schmitt Carl, Schlosser, Colmarerstr. 24.
+Schmitt Philipp, Schreiner, St. Urbanweg 27b.
+Schmitt Sebastian, Schutzmann, Polygonstr. 38a.
+Schmitt Andreas, Tagelöhner, Neudorf-Kirchweg 18.
+Schmitt Georg, Tagelöhner, Kiesgrubenweg 4.
+Schmitt Abraham, Tagelöhner, Neudorf 63.
+Schmitt Carl, Tagelöhner, Rothes Quartier 42.
+Schmitt Sebastian, Tagelöhner, Schlüffeld 3.
+Schmitt Geoffroy, Uhrmacher, Langstrasse 18.
+Schmitt Carl, Wursthändler, Langstrasse 52.
+Schmitt Johann, Wirth, Blaues Quartier 18.
+Schmitt Ignaz, Ziegelbrenner, Ziegelweg 21.
+Schmitt Georg, Ziegelbrenner, Ziegelweg 21.
+Schmitt Fanni geb. Lambla Wwe., Handschuh- und Parfümerie-Handlung, Krämergasse 5.
+Schmitt Christine Wwe., Gemüsehändlerin, Spitalgasse 26.
+Schmitt Dorothea Wwe., Langstr. 50.
+Schmitt geb. Weiler Wwe., Eigenthümerin, Lingolsheimerstrasse 27.
+Schmitt Katharina Elisabeth Wwe., Eigenthümerin, Büchergasse 23.
+Schmitt Elisabeth, Arbeiterin, Büchergasse 16.
+Schmitt Marie, Büglerin, Artilleriewallstr. 1.
+Schmitt Marie, Posamentierwaaren-Geschäft, Schiffleutstaden 3.
+Schmittbühl Michael, Ackersmann, Rothes Quartier 248.
+Schmittlen Robert, Hopfen- und Malzhändler en gros, in Firma: Schmittlen & Schröder, Auf den Eisgruben 7.
+Schmitter Anton, Tagelöhner, Neuhof 160.
+Schmitter Carl, Tagelöhner, Neuhof 27.
+Schmitter Friedrich, Zimmermann, Ziegelweg 23.
+Schmitter Karoline, Näherin, Finkweilerstr. 37.
+Schmitter Louise, Arbeiterin, Mondgasse 4.
+Schmittmeyer Joseph, Castellan, Müngzgasse 2.
+Schmitz Friedrich, Dr. des botanischen Instituts, Academiestr. 2.
+Schmitz Gerhard, Arrest-Aufseher, Krebsgasse 11.
+Schmitz August, Briefträger, Münsterstrasse 27.
+Schmitz Sophie Wwe., Alter Fischmarkt 27.
+Schmitzbaan Wilhelm, Schuhmacher, Kl. Spitzen-gasse 8.
+Schmoller Friedr., Professor, Pariserstaden 9.
+Schmuklerski Gotzel, Handelsmann, St. Helenengasse 5.
+Schmutz Adolph, Aufseher in der Manufactur, St. Nicolausplatz 4.
+Schmutz Theodor, Bierwirthschaft »zum Dauphin«, Münsterplatz 13.
+Schmutz Isaac, Fischer, Wo der Fuchs den Enten predigt 1.
+Schmutz Jacob, Gypser, Zaunkönigsgässchen 1.
+Schmutz Georg, Gastwirth, »Café du Dom«, Reiheisengasse 10.
+Schmutz Carl, Kaufmann, An der alten Metz 4.
+Schmutz Joseph, Specereiuhändler, Langstrasse 26.
+Schmutz Friedrich, Schlosser, Grossau 8.
+Schmutz Emil, Schuhmacher, Lingolsheimerstr. 9.
+Schmutz Theodor, Schenkwrith, Rheinstr. 23.
+Schmutz Friedr., Schenkwrith, Höllenfeergergässch. 2.
+Schmutz Samuel, Schenkwrith, Wo der Fuchs den Enten predigt 3.
+Schmutz Friedr., Schleusenmeister, Rothes Quart. 1.
+Schmutz Johann Baptist Daniel, Schiffer, Magneten-gasse 3.
+Schmutz Wilhelm, Schiffer, Pflanzbadg. 26.
+Schmutz Heinrich, Schiffer, Pflanzbadgasse 19.
+Schmutz Theophil, Schreinermeister, Kl. Renn. 15.
+Schmutz Jacob, Tagelöhner, Feggasse 10.
+Schmutz Salome, Schenkwrithin, Lombardwürthw. 2.
+Schmibabel Therese Wwe., Pensionärin, Klein-frankreichstaden 2.
+Schnall Joseph, Steuerbeamter, Katharinenstr. 3.
+Schnarb Benjamin, Güterhändler, Barbarag. 5.
+Schnatz Carl, ev. Pfarrer, Metzgergiessen 19.
+Schnack Heinrich, Schiffer, Hennengasse 8.
+Schnack Wilhelm, Wursthändler, Pergamentergasse 12.
+Schnedecker Franz, Pensionär, Polygonstr. 42a.
+Schneegans Valentin, Rechtsanwalt, Spiessg. 31.
+Schneegans Emil, Secretär von St. Marx, Gestüts gasse.
+Schneegans Philipp, Eigenthümer, Finkweilerstaden 8.
+Schneegans Eduard, Pastetenbäcker, Münsterstrasse 27.
+Schneegans Louise Wwe., Rentnerin, Metzgerplatz 1.
+Schneegans Carl, Gymnasial-Director, Studenten-gasse 9.
+Schneider Ernst, Postbeamter, Fasanengasse 8.
+Schneider Gottfried, Steuerbeamter, Goldgiessen 8.
+Schneider J. G., Architect, Zimmerleutgasse 8.
+Schneider Marzelinus, Arbeiter, Ziegelau 3.
+Schneider Jacob, Arbeiter, Ziegelau 11.
+Schneider Philipp, Büreaudienner, Krebsgasse 17.
+Schneider Lorenz, Brauereibesitzer, Weissthurmstr. 86.
+Schneider Laurent, Brauer, Königshofen 52.
+Schneider Emil, Bäckermeister, Grosse Stadelgasse 27.
+Schneider Benjamin, Bäcker, Langstr. 48.
+Schneider Franz Eugen, Büchsenmacher u. Patronen-fabrikant, Luxhofgasse 1.
+Schneider Nicolaus, Fuhrmann, Königshofen 86.
+Schneider Michael, Fuhrmann, Im Roedig 2.
+Schneider Jacob, Fuhrmann, Rothes Quartier 138.
+Schneider Georg, Gerbergeselle, Wo der Fuchs den Enten predigt 3.
+Schneider Andreas, Kutscher, Grossau 8a.
+Schneider Carl, Kutscher, Thomannsgasse 36.
+Schneider Jakob, Lademeister, Grüner Bruch 17.
+Schneider Peter, Schriftsetzer, Hennengasse 16.
+Schneider Heinrich, Maler, Heiligenlichtergasse 9.
+Schneider Friedr., Mehlhändler u. Pergamentarbeiter, Grosse Stadelgasse 9.
+Schneider Gerson, Manufacturwaaren-Handlung, An den Gewerbslauben 43.
+Schneider Anton, Pensionär, Pergamentergasse 7.
+Schneider Joseph, Pritschenbesitzer für Wäscherei, Mühlgasse 11.
+Schneider August, Papierhandlung, An den Gewerbs-lauben 27.
+Schneider Ludwig, Rentner, Kettengasse 4.
+Schneider Christian, Rentner, Grosse Stadelgasse 27.
+Schneider Albert, Schuhmacher, Thomasplatz 10.
+Schneider Johann, Schuhmacher, Ziegelau 34.
+Schneider Johann, Schuhmacher, Alte Korn gasse 6.
+Schneider Felix Florenz, Schuhm., Blumenstad. 6.
+Schneider Joseph, Schneider, Langstr. 12.
+Schneider Jacob Friedrich, Schneider, Judengasse 27.
+Schneider Ludwig, Schreiner, Oberziegelauweg 13.
+Schneider Friedrich, Schmied, Ziegelau 57.
+Schneider Carl, Strohutarbeiter, Neudorf 87.
+Schneider Michael, Steinhauer, Ziegelau 5.
+Schneider Xaver, Schiffer, Lingolsheimerstr. 16.
+Schneider Lorenz, Schiffer, Rothes Quartier 132.
+Schneider Ludwig, Specereiuhändler, Fischerstrasse 20.
+Schneider Joseph, Schreinermeister, Brunnen gasse 6.
+Schneider Joseph, Schreiner, Burggasse 9.
+Schneider Carl, Tapezierer, An der alten Metz 3.
+Schneider Carl Marie, Tapezierer, St. Ludwigs gasse 7.
+Schneider Alfons, Tabakhändler, Spiessgasse 33.
+Schneider Georg, Tagelöhner, Blaues Quartier 21.
+Schneider Georg, Tagelöhner, Rothes Quartier 382.
+Schneider Georg, Tagelöhner, Rothes Quartier 372.
+Schneider Georg, Tagelöhner, Hellebardengässchen 1.
+Schneider Joseph, Tagelöhner, Schillighheimer gasse 15.
+Schneider Joseph, Tagelöhner, Müller gässchen 6.
+Schneider Joseph, Tagelöhner, Blaues Quartier 4e.
+Schneider Joseph, Tagelöhner, Blaues Quartier 98a.
+Schneider Christian, Tagelöhner, Leimengasse 33.
+Schneider Friedrich, Tagelöhner, Rothes Quartier 317.
+Schneider Konrad, Tagelöhner, Langstr. 116.
+Schneider Ludwig, Tagelöhner, Büchergasse 16.
+Schneider Michael, Tagelöhner, Kleine Spitzengasse 8.
+Schneider Philipp, Tagelöhner, Schillighheimer gasse 7.
+Schneider Theodor, Tagelöhner, Schillighheimer gasse 4.
+Schneider Joseph, Wundarzt, Kreuzgasse 12.
+Schneider Michel, Weber, Rothes Quartier 268.
+Schneider Joseph, Wachstucharbeiter, Neudorf 56.
+Schneider Johann Leonhard, Zimmerm., Hechteng. 4.
+Schneider Carl, Zwirnermeister, Pflanzbadgasse 26.
+Schneider Magdalene geb. Lienhardt Wwe., Eigenthümerin, Schlossergasse 15.
+Schneider Barbara Wwe., Corsettfabrik, An den Gewerbslauben 27.
+Schneider Salome geb. Schneider, Logirwrithin, Haar-gässchen 5.
+Schneider Salome geb Eschheuer, Porzellanhandlung, Münsterplatz 9.
+Schneider Friederike Wwe., Rentnerin, Meisengasse 14.
+Schneider Elisabeth geb. Boudbois Wwe., Rentnerin, Weisses Quartier 54.
+Schneider Elisabeth Wwe., Schuhhändlerin, An den Gewerbslauben 39 (Laden: Neuer Markt 12).
+Schneider Margarethe geb. Schnell, Wwe., Tabak- u. Cigarrenhändlerin, Finkmattstr. 9.
+Schneider Margarethe geb. Schnell, Wwe., Tagelöhn., Hellebardengässchen 6.
+Schneider Katharina geb. Heinault, Wwe., Wäscher., Lindenfelsgasse 9.
+Schneider Sophie geb. Michel, Wwe., Wäscherin, Bluménstaden 13.
+Schneider Julie, Wwe., Hinter den Mauern 4.
+Schneider Barbara geb. Klein, Wwe., Polygonstr. 43e.
+Schneider Louise, Eigenthümerin, St. Urbanweg 20.
+Schneider Josephine, Hebamme, Blauwolkeng. 21.
+Schneider Emilie, Näherin, Dracheng. 4.
+Schneider Cäcilie, Rentnerin, Meiseng. 16.
+Schneiderin Robert, Gastwirth, Ziegelauweg 7.
+Schneidt Johann, Tagelöhner, Hechteng. 6.
+Schneidt Magdal. geb. Hohl, Arbeiterin, Breusch-staden 4.
+Schneiter Theodor, Dr. med., Schlosserg. 4/6.
+Schneitz Jacob, Eisenbahn-Beamter, Hechten-sackgasse 4.
+Schnele Victor, Schuhmachermeistr., Spiessg. 20.
+Schnell Phil., Fuhrmann, Kageneckerbruch 53.
+Schnell Georg, Schmied, Hellebardengässchen 6.
+Schnell Adolph, Schuhmachermeistr., Goldgiessen 2.
+Schnell Philipp, Schreinermeister, Grossau 8b.
+Schnell Franz, Weber, Grossau 15.
+Schnell Josephine geb. Steffler Wwe., Posamentier-waarenhändlerin, Judengasse 29.
+Schnepf Oscar, Arbeiter, St. Urbanweg 3.
+Schnerr Melanie geb. Netter Wwe., Rentnerin, Alte Weinmarktstrasse 7.
+Schnorf Eli, Portier in der Synagoge, Barbaragasse 14.
+Schnorf Caroline Wwe., Büchergasse 20.
+Schnipp Johann, Arbeiter, Hennengasse 16.
+Schnitter Andreas, Wwe., Eigenthüm., Neuhof 78.
+Schnitzelbaum Georg, Fuhrm., Brunnen gässch. 3.
+Schnitzler Ludwig, Unter-Bibliothekar, Nicolaus-gasse 10.
+Schnitzler Eduard, Telegraphen-Aufseher, Heideng. 1.
+Schnitzler Michael, Gastwirth, Neudorf 74.
+Schnitzler Daniel, Handlungscommis, Grosse Stadel-gasse 18.
+Schnitzler August, Rentner, Langstrasse 136.
+Schnitzler Wilhelm, Schneidermeister, An den Gewerbslauben 8.
+Schnitzler August, Wagnermeister, Goldgiessen 9.
+Schnitzler Edmund, Weinhändler, Langstrasse 136.
+Schnitzler Caroline, Rentnerin, Thomasstaden 3.
+Schnitzler Wwe., Rentnerin, Nicolausstaden 24.
+Schnitzler Friederike, Rentnerin, Metzgergiessen 40.
+Schnitzler Julie, Rentnerin, Ballhausgasse 14.
+Schnöring Franz, Fischer, Rothes Quartier 288a.
+Schnöring Johann, Gärtner, Rothes Quartier 339.
+Schnöring Felix, Weissblechner, Blumenstaden 9.
+Schnug Max, Landgerichts-Actuar, Pergamenter-gasse 13.
+Schober Friedrich, Telegraphist, Münsterg. 22.
+Schoch Fritz, Rentner, Küfergasse 27.
+Schöff Valent., Schenkwrith, Kronenburgerstr. 2.
+Schöffel Emil, Schneidermeister, Kinderspielg. 5.
+Schöffler Michael, Schneider, Rothhäuserg. 17.
+Schooler v. Emil, Premier-Lieutenant im Inf-Regiment Nr. 47, Bei den gedeckten Brüken 8.
+Schöllhammer Georg, Gärtner, Weisses Quart. 38.
+Schöllhammer Carl, Gärtner, Blaues Quartier 4d.
+Schöllhammer Carl, Gärtner, Weisses Quartier 5.
+Schöllhammer Daniel, Gärtner, Lazarusweg 7.
+Schöllhammer Andreas, Gärtner, Ziegelauweg 31.
+Schöllhammer Gottfried, Gärtner, Contades 3.
+Schöllhammer Georg, Küfermeister, Grüner Bruch 11.
+Schölscher Louis, Fuhrmann, Tränk gasse 7.
+Schön Nicolaus, Beamter am Oberpräsidium, Magdalenen gasse 21.
+Schön Nicolaus, Tagelöhner, Blaues Quartier 96a.
+Schönborn Leonhard, Schuhmachermeistr., Thomassstaden 8.
+Schönberger Anton, Tagelöhner, Rothes Quartier 242.
+Schönel Therese geb. Acher Wwe., Tagelöhnerin, Neudorf-Kirchweg 2.
+Schönfeld Ernst, Zeugfeldwebel, Rothhäusserg. 1.
+Schönfeld Carl Friedrich, Portier, Thomasstaden 4.

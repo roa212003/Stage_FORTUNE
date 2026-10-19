@@ -1,0 +1,193 @@
+Weber, Emil, Ingenieur, Seellosgasse 1.
+— Franz, Rechtsanwalt, Kleberplatz 30.
+— Heinrich, Elem.-Lehrer, Marxg. 15.
+— Heinrich, Ob.-Telegr.-Assist., Zab.Ring 7.
+— Johann, Landger.-Secr., Molleng. 4.
+— Margarethe, Elem.-Lehrerin, Polygon strasse 17.
+— Marie, Elem.-Lehrerin, Polygonstr. 17.
+— Mathias, Elem.-Lehrer, Mutzigerstr. 10.
+— Nicolaus, Telegr.-Secret., Rosheimerstr. 6.
+— Peter, Gerichts - Schreiber, Kinderspiel gasse 53.
+— Peter, Postassistent, Rosheimerstr. 22.
+— Wilhelm, Eis.-Betr.-Secr., Bruderhofsg. 39.
+— Wilhelm, Eisb.-Betr.-Secr., Seellosg. 21.
+— Wilhelm, Postpraktikant, Seellosg. 1.
+— Seminar-Uebungslehrer, Elisabethstr. 12.
+— Adam, Tapeziererm., Fegg. 6.
+— Alfred, Koch, H. d. Mauern 14.
+— Alfred, Uhrmacher, Geschäft Langstr. 2, Wohn. Heleneng. 4.
+— Andreas, Commis, Polygonstr. 43.
+— Anton, Stallknecht, Schlachthausplatz 3.
+— August, Kaufmann, Unbenannte Strasse am Kaiserplatz ohne Nr.
+— August, Schuhmacherg., Spitalplatz 9.
+— Basilius, Tagner, Eisgruben 3.
+— Christian, Conditorei, St. Stephansplan 6.
+— Christian, Tagner, Neudorf, Kirchg. 71.
+— Christoph, Schuhwaarenhandlung, Lang strasse 106.
+— David, Tagner, Neuhof 54.
+— Dominik, Tagner, Marxg. 15.
+— Edmund, Wirth, Langstr. 134, Wohnung Schuhmacherg. 16.
+— Eduard, Wirth, Langstr. 116.
+— Emil, Schreinerg., St. Ludwigsg. 22.
+— Emil, Spenglergeh., Langstr. 11.
+— Ernst, Bank-Cassirer, Salzmannsg. 9.
+— Ernst, Director der Conservenfabrik in Schiltigheim, Salzmannsg. 9.
+— Eugen, Rentner, Schöpflinstaden 2bis.
+— Felix, Rentner, Schildgasse 1.
+— Florenz, Krämer, Krutenaustr. 8.
+— Franz, Malergeh., Wilhelmerg. 13.
+— Franz, Maurer, Eisgruben 6.
+— Franz, Tagner, Alter Fischmarkt 44.
+— Friedrich , Cigarrengeschäft, Bruderhofsgasse 11.
+— Friedrich, Maschinenf., Neuzielgässel 1.
+— Friedrich, Restaurateur, Gewerbslauben 7.
+— Friedrich, Tagner, Kempfeng. 15.
+— Friedrich, Tagner, Magneteng. 3.
+— Friedrich, Werkführer, Storcheng. 1.
+— Georg, Controleur, Hahneng. 3.
+— Georg, Schreiber, Nikolausstaden 11.
+— Georg, Tagner, Blindeng. 1.
+— Georg, Zimmermann, Pergamenterg. 10.
+— Gottfried, Metzgermstr., Kreuzg. 17.
+Gustav, Wagenfabrik., Metzgergiessen 23.
+— Heinrich, Gerberg., Gr. Spitzeng. 13.
+— Heinrich, Schreinerg., Fegg. 6.
+Weber, Hermann, Bürstenm., Henneng. 6.
+— Jakob, Rentner, Heleneng. 4.
+— Jakob, Tagner, Königshofen 196a.
+— Jakob, Tagner, Mittelauweg 4.
+— Jakob, Tagner, Schiffleutstaden 16.
+— Johann, Ackerer, Hinterortweg 6.
+— Johann, Ackerer, Winkelg. 4.
+— Johann, Eisenb.-Arb., Weissthurmstr. 6.
+— Johann, Schiffer, Lindeng. 1.
+— Johann, Tagner, Kageneckerbruch 7.
+— Johann, Wirth, Heyritz 17.
+— Johann Jakob, Tabakmanuf. - Aufseher, Goldgiessen 10.
+— Joseph, Fuhrknecht, Königshofen 42.
+— Joseph, Schlosserg., Seellosg. 1.
+— Joseph, Tagner, Gr. Spitzeng. 12.
+— Julie, Rentnerin, Goldschmiedg. 1.
+— Julie, geb. Tautel, Rentnerin, Metzgergiessen 15.
+— Julius, Schieferdecker, Korduang. 25.
+— Karl, Porzellanhändler,Alt. Kornmarkt 10.
+— Karl Ackerer, Wanzenauerstr. 66a.
+— Karl, Buchdrucker, Spiessg. 26.
+— Karl, Commis, Thiergartenstr. 7.
+— Karl, Mehlhändler, Metzgerplatz 9.
+— Karl, Pfeifendreher, Grossau 11.
+— Karl, Schiffmann, Rupr. Kirchpfad A7.
+— Karl, Schneiderges., Öchseng. 4.
+— Karl, Schriftsetzer, Langstr. 97.
+— Karl, Schriftsetzer, Scharlachg. 2.
+— Karl, Schuhm., Rothfässelgässchen 6.
+— Karl, Wirth, Kronenburg 124.
+— Katharina, Portnerin, Judeng. 18.
+— Katharina, geb. Baas, Wwe., Nikolauskasernengasse 13.
+— Lorenz, Tagner, Finkweilerbadg. 2.
+— Louis, Hauptsteueramtsd., Dorneng. 9.
+— Louis Albert, Schreiner u. Vergolder, Steinstrasse 39.
+— Ludwig, Pfeifendreher, Neufeldweg 2.
+— Ludwig, Portner, Blauwolkeng. 2-4.
+— Ludwig, Schuhmacherg., Küfergasse 20.
+— Ludwig, Tagner, Nikolauskaserneng. 7.
+— Ludwig, Tagner, Spitalg. 26.
+— Ludwig Friedrich, Droschkenk., Ziegel auweg 78.
+— Margarethe, geb. Mi, Geschirrhändlerin, Heiligenlichterg. 5.
+— Marie, geb. Diebolt, Wwe., Judeng. 9.
+— Maria, geb. Penner, Wwe., Neuzielg. 8.
+— Marie, geb. Reber, Wwe., Im Kleinen Frankreich 2.
+— Martin, Ackerer, Winkelg. 14.
+— Mathias, Schreinerm., Kageneckerbruch 11.
+— Michael, Ackerer, Rupr. Kirchpfad 6.
+— Michael, Feilenhauer, Kl. Spitzeng. 3.
+— Peter, Spengler, Langstr. 25.
+— Philipp, Maurer, Querg. 7.
+— Philipp, Maurerm., Wanzenauerstr. 31.
+— Prosper, Vergolder, Jungferng. 12.
+— Rosalie, geb. Willer, Bäckerei, Marx gasse 22 u. 24.
+Weber, Rosine, geb. Klumpp, Rentnerin, Kronenburg 124.
+— Salome, geb. Steuer, Specereihändlerin, Wanzenauerstr. 31.
+— Sebastian, Wirth, Waiseng. 13.
+— Sophie, geb. Weber, Wwe., Korduang. 4.
+— Theodor, Wirth u. Maler, Colmarerstr. 9.
+— Thomas, Bäckerm., Weissthurmstr. 26.
+— Valentin, Tagner, Königshofen 147.
+— Wendelin, Tagner, Gr. Stadelg. 10.
+— Wilhelm, Eisenb. - Heizer, Weissthurm ring 8.
+■— Wilhelm, Holz- u. Kohlenhändl., Kronen burg 124a.
+— Wilhelmine, geb. Böhringer, Wittwe, Küssstrasse 4.
+Wechsler, Andreas, Hausdiener, Schloss platz 1.
+• — Johann, Tagner, Alte Korng. 1.
+Weck, Gustav, Reisender, Steinstr. 49.
+Weckauf, Joseph, Kasernenwärter, Schiltigheimer Wallstr., Garnison-Waschanstalt.
+Weckbrodt, Eduard, Drechsler, Freibnrgergasse 4.
+Weckel, Johann, Hauptlehrer, Rupr. Salz mannsgasse 1.
+— Alois, Bäckermstr., Langstr. 90.
+— Marie, geb. Lickel, Wwe., Pfützeng, 36.
+Weckert, Adelheid, geb. Beinert, Wittwe, Nikolauskasernengasse 3.
+Wedemeyer, Robert, Locomotivheizer, Kö nigshofen 53.
+Wedig, Karl Christ., Zimmerm., Fritzg. 2.
+Wegbecher, Joh., Tagner, Colmarerstr. 38.
+Wegelin, Karl, Rentner, Kinderspielg. 46.
+Wegener, Prem.-Lieut. Inf.-Reg. 99, Heu platz 4.
+Weger, Georg, Ulirmach., Goldschmiedg. 24.
+Wegfarth, Louise, geb. Reinfried, Rentn., Gerbergraben 17.
+Wegfrass, Fritz, Eisenb. - Hilfsschreiber, Ziegelweg 19a.
+Wegmann, Christian, Packmstr., Kageneckerstr. 45.
+Wegner, Ernst, Eisenb.-Secr., Ballhausg. 6.
+Weh, Joseph, Steinhauer, Polygonstr. 27.
+Wehmeyer, Elise, Elem.-Lehrerin, Jung ferngasse 2.
+Wehrei, Daniel, Bäckerm., Tränkg. 14.
+— Friedrich, Schlosser, Tränkgasse 14.
+— Friedrich, Schlosserg., Wilhelmerg. 13.
+Wehrle, August, Aufseher, St. Ludwigsg. 12.
+— Franz Anton, Rentner, Rehg. 5.
+— Georg, Tagner, Heleneng. 19.
+— Marie, Krankenpflegerin, Clemenspl. 6.
+— Therese, geb. Stehle, Wwe., Wilhelmer gasse 13.
+Wehrlen, Pauline, Kranz- und Blumen händlerin, Krämerg. 8, Wohn. Schneider graben 2.
+Wehrli, Joseph, Schuhmachermstr., Kronen burgerstrasse 20.
+Wehrlin, Emil, Tagner, Am Bruckhof 7.
+Wehrung, Georg, Postassist., Eisgruben 14.
+— Nikolaus, Schneiderm., Kronenburg 87.
+*A. Weibel, Uhrenfournituren- u. Bijouterie geschäft. Inh.: Albert Weibel, Hohen Steg 29.
+Weibel, Daniel, Tagner, Wolfsg. 3.
+— Johann, Schuhmacher, Kageneckerg. 6.
+— Josephine, geb. Vetter, Milchhändlerin, Elsau 16.
+— Karl, Tagner, Pflanzbad 17.
+— Karoline, geb, Host, Wwe., Bücherg. 7.
+— Ludwig, Chemiker, Gutleutstr. 24.
+— Valentin, Wirth, Gr. Stadelg. 16.
+— Wilhelm, Kurzwaarenhändler, Gewerbs lauben 55.
+Dr. Weichhold, Guido, Ord. Lehr. a. d. Realsch. b. St. Joh., Dracheng. 10.
+Weichsel, Albert, Schreiner, Schiffleutstad. 18.
+— Georg, Schreiner, Metzgergiessen 35.
+Weichselbaum, Joseph, Küfer, Korduang. 27.
+Weick, Adolph, Kunst- u. Handelsgärtner, Broglieplatz 2, Wohn: Rupr. Allee 51.
+— Christian, Tapezierer u. Krämer, Wan zenauerstrasse 53.
+Weidelich, Johannes, Schiffer, Kempfeng. 18.
+Weidenbach, Friedrich, Schutzmann, Ball hausgasse 6.
+— Jakob, Schuhmacherg., Langstr. 49.
+Weidenbacher, Johann, Eis.-Arb., Haarg. 8.
+Weidermann, Hieronimus, Zahlmstr.-Aspir., Fischerstaden 1.
+Weidert, Wallmstr., Lingolsheim.
+Weidig, Nikolaus, Landger.-Secr.-Assist., Metzgerplatz 13.
+Weidmann, Peter, Fuhrmann, Neudorf, Quergasse 23.
+— Therese, geb. Abele, Wwe , Schlosserg. 27.
+Weidner, Franz, Schutzm.-Wachmstr., Stein wallstrasse 14.
+Weigand, Wilhelm, Tagn., Königshofen 187.
+Weigel, Friedrich, Locomotivführ., MilitärLazarethstrasse 5.
+— Georg, Aufseher, Gutleutstr. 1.
+Weigelt, Elisabeth, geb. Brenkle, Näherin, Wilhelmerg. 15.
+Weihaupt, Joseph, Fuhrknecht, Königsh. 69.
+— Joseph, Schlosserg., Obergasse 85.
+Weik, Karl, Steinhauer, Giesshausg. 20.
+Weikert,Friedrich, Maurer, Schwertgässch.5.
+Weikum, Karl, Gastwirth, Metzgerplatz 8.
+* Cyriaque Weil & Cie., Häutehandlg. Inh.: 1) Cyriaque Weil, 2) Gustav Weil, Margaretheng. 2, Wohn. Bahnhofsstr. 4.
+* Cyriaque Weil & Cie., Häutehandlg. Inh.: 1) Cyriaque Weil, 2) Gustav Weil, Margaretheng. 2, Wohn. Bahnhofsstr. 4.
+*E. Weil, Tuchhdlg. Inh.: Wwe. Pauline Weil, geb. May, Proc.: Jonas Lippmann, Kfm., Gewerbslauben 41, Wohn. Domini kanergasse 2.
+*E. Weil, Tuchhdlg. Inh.: Wwe. Pauline Weil, geb. May, Proc.: Jonas Lippmann, Kfm., Gewerbslauben 41, Wohn. Domini kanergasse 2.
+*F. Weil, Wwe., Metzgerei. Inh.: Wwe. Weil, Rosette, geb. Levy, Gr. Stadelg. 19.
+* J. Weil, cadet, Schnittwaaren. Inh.: Jos. Weil, Kfm., Alter Weinmarkt 13.

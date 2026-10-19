@@ -1,0 +1,194 @@
+Class Margarethe, Näherin, Hennengasse 8.
+Claude August, Fussbodenwichser, Grossau 14d.
+Carl, Restaurateur, Metzgergiessen 19.
+Eduard, Zimmermann, Weissethurmgrasse 25.
+Johann, Schreiber, Küfergasse 19.
+Claus Anton, Steindrucker, Elisabethsackg. 1.
+Christian, Eisenbahnsecretär, Spiessgasse 21.
+Emil, Architect, alte Weinmarktstr. 32.
+Georg, Maurer, Hennengasse 16.
+Georg, Maurer, Elsaü 1a.
+Johann, Tagelöhner, Blau Quartier 73.
+Johann, Maurer, Neuhof 44b.
+Johann, Tagelöhner, Domplatz 2.
+Joseph, Tagelöhner, Leimengasse 10.
+Karl, Schutzmann, gr Urbanusweg 6.
+Michael, Maurer, Neuhof 20.
+Nicolaus, Tagelöhner, Heumagazingasse 1.
+Clausing Gustav, Gastwirth, Königshofener Bahnhofstr. 1.
+Clausinger Friedrich, Wagner, Roth Quartier 138.
+Clausz Joseph, Bureaudiener, gr. Spitzeng. 12.
+Konrad, Heizer, Blindengasse 10.
+Mathias, Tagelöhner, Helenengasse 21.
+Michael, Tagelöhner, Bücherwasse 7.
+Michael, Schuhmacher, Mühlenplan 9.
+Pankratz, Tagelöhner, Wilhelmerstr. 13.
+Philipp, Maurer, Nicolauskasernenstr. 11.
+Salome Melanie, Näherin, Judengasse 18.
+Valentin, Fuhrmann, Elsaü 18.
+Claussmann Heinrich, Tagelöhner, Wolfsg. 5.
+Karl, Tagelöhner, Roth Quartier 124.
+Ludwig, Rentner, Roth Quartier 228.
+Clawé, geb Nithard, Marie, Rentnerin, Waisen-gasse 23.
+Cleis Christian, Schuhmacher, Gerbergraben 29.
+Karl, Schuhmacher, Schwestergasse 16.
+Cleist Adolf, Schreiner, Scharlachgasse 2.
+Clemens, geb. Hirtzel, Sophie, Tagelöhnerin, Häckergässchen 4.
+Clement, geb Obrecht, Marie, Eigenthümerin, Kettengasse 6.
+Rosalie, Rentnerin, Broglieplatz 9.
+Clementz Adolph, Tagelöhner, Sonnengasse 7.
+Michael, Buchhalter, Lazarethweg 8.
+Clemenz, geb. Brecheisen, Salome, Tagelöhnerin, Wo der Fuchs den Enten predigt 16.
+Clere, geb. Führer, Marie Louise, Rentnerin, alter Fischmarkt 19.
+Clere St Katharina, Rentnerin, Fasaneng. 6.
+Clere Fritz, Beamter an der Bürgermeisterei, alter Fischmarkt 36.
+Clog Joseph, alter Fischmarkt 20. E.
+Louis, Bauunternehmer, Broglieplatz 11.
+Cloos, geb. Idiss, Barbara, Rentnerin, Siebenmannsgasse 11.
+Karl, Pfsterer, Grossau 14a.
+Karl, Schuhmacher, Neu Umbruchsweg Haus 10.
+Clor Heinrich, Tabaks- und Cigarrenhändler, Weissethurmgr. 32.
+Clos Peter, Portier an der Eisenbahn, Stein-wallstr 7.
+Closs Gustav, Hutmacher, Helenengasse 21.
+Clüver Ervin, Premier-Lieut. im 4. Rh.-Inf.-Reg. 25, Steingasse 1.
+Cochet Amalie, Putzmacherin und Modistin, Bruderhofsgasse 39.
+Cochu Ludwig, Wagner, Krutenastr. 33.
+Cock Barbara, Näherin, Goldgiessen 9.
+Cohn Louis, Kaufmann, Pariserstaden 4.
+Markus, Kaufmann, gr. Rennegasse 20.
+Cohnfeld Marx, Kaufmann, Kleberplatz 27.
+Coinsmann Eduard, Färber, St. Nicolausplatz 7.
+Colindre Louis, Schlosser, Clementzplatz 6.
+Colli Emanuel, Maler, Goldgiessen 15.
+Colliet Joseph, Rentner, Militärsptalstr. 6. E.
+Colliet Magdalena, Näherin, Ballhausgasse 16.
+Colle Karl, Schleusenwärter, Gedeckte Brücken (Kaserne).
+Joseph, Schreiner, Lindenfelsgasse 3.
+Joseph, Tagelöhner, Gedeckte Brücken 8.
+Collé Philipp, Schiffmann, Lingolsheimerstr. 34.
+Collignon Eduard, Reisender, Lazarethweg 8.
+Collin Aloys, Schneider, Neu Umbruchsweg Haus 5.
+Collin, geb Jung, Christina, Wwe., Johannes-staden 13.
+Joseph, Tagelöhner, Neudorf 77.
+Collombel Adelheid, Rentnerin, Stephans-plan 15.
+Colnago Julius, Pensionär, Rothfässelgasse 6.
+Colomb geb. Becker, Margarethe, Wwe., Gärt-nerin, Neufeldweg 4.
+Comment Joseph, Schreiber, Roth Quartier 70.
+Commer Friedrich, Professor, Broglieplatz 9.
+Commerly Ludwig, Schuhmacher, Leimeng 5.
+Coliot Theresia, Arbeiterin, Auf den Eis-gruben 11.
+Conin Adolph, Tagelöhner, Blau Quartier 35a.
+Conrad, geb. Fallert, Augustine, Gastwirthin, Neudorf 58.
+Conrad Carl Philipp, Zahn-Arzt, Langestr. 127.
+Carl, Zahn-Arzt, Freiburgerstr. 5.
+Friedrich, Schuhmacher, Axtgässchen 3.
+Georg, Ofenfabrikant, Metzgergiessen 24.
+senior, Johann, Parallelstr. 5. E.
+junior, Johann, Maurerstr., Parallel-str. 5.
+Joseph, Drechsler, Metzgergiessen 30.
+Joseph, Tagelöhner, Ochsenegässchen 2.
+Karl, Hausknecht, Waisengasse 3.
+Ludwig, Eisenbahnbeamter, Kronenburger-strasse 27.
+Peter, Schlosserstr., Rothhäusergasse 4.
+Conrath Constantia, Pensionärin, Bruderhofsgasse 31.
+Gottfried, Baurath, Aureliengasse 13.
+Joseph, Tagelöhner, Stampfgasse 22.
+geb. Stiedel, Pauline, Wwe., Schlosser-gasse 5. E.
+ geb. Arbogast, Sophie, Wwe., Goldgiessen 6. E.
+Constanz Jacob, Steinhauer, Colmarstr. 37.
+Contusch Friederike, Wwe., Küfergasse 28. E.
+Conzelmann, geb. Contern, Elisabeth, Wwe. und Pensionärin, St. Elisabethgasse 4.
+Coper Paul, Kaufmann, Krebsgasse 7.
+Coppert Eugen, Kachler, Tucherstubgasse 7.
+Corbelin Herrmann, Offizier, Nicolausstaden 21.
+Cordan, geb. Oberle, Josephine, Spezerei-händlerin, Blauwolkengasse 27.
+Cordot Emil, Locomotivführer, Regenbogen-gasse 27.
+Corinth Christian, Eisenbahnsecretär, Weisse-thurmstr. 64.
+Cormier Alexander, Schuhmacher, Gaulstaden 3.
+Cornelius Heinr. Emil, Tischler, Polygonstr. 26.
+Johann Louis, Münstergasse 10. E.
+Karl, Rentner, Königshofen 46.
+Ludwig, Friseur und Parfümeriehändler, Münstergasse 10.
+Cornit Julius, Bildhauer, Neuer Markt 2.
+Cornot Léon, Bildhauer, Schneidergraben 6.
+Cornu Gustav Louis Alois, Photograph, Giess-hausgasse 12.
+Corty Anton, Kurzwaarenhändler, Lange-strasse 123.
+Corvers Michael, Portier, St. Magdalenengasse 12.
+Cossmanu Joseph, Trödler, alt St. Peterplatz 3.
+Cottler Friederike, Rentnerin, Schlachthaus-staden 2.
+Couch, geb. Blanc, Maria, Händlerin, Polygonstrasse 44.
+Couche Heinrich, Post-Conducteur, Elisabeth-gasse 25.
+Cognet, geb. Schwartz, Maria, Krämerin Neudorf 73.
+Coulon August Johann, Pensionär, Krutenastrasse 26.
+Courbier Eugen, Tagelöhner, Hennengasse 4.
+Coursie Ludwig, Tagelöhner, Mondgässchen 2.
+Courty Joseph, Tischler, Johannesstaden 3.
+Léon, Tischler, Johannesstaden 3.
+Cousin Stephan, Rentner, Tränkgasse 16.
+Coustans, geb. Schmidt, Louise, Wwe., Regen-bogengasse 19.
+Couthere Leon, Schuhmacherstr., Lange-strasse 35.
+Couturat, geb. Exel, Adelheid, Rentnerin, Gewerbslaube 91.
+Coyard Calix, Blutegehändler, Kalbgasse 4.
+Cramer Henoch, Rentner, Eisermannsplatz 2.
+Craus Friedrich, Schlosser, Ballhausgasse 19.
+Crembscr Xaver, Rentner, Drachengasse 4.
+Cremer Wilhelm, Feuerversicherungsbeamter, Stolzenegasse 8.
+Crener Andreas, Spinner, Königshofen 125.
+Crengl, geb. Blum, Pauline, Wwe. und Putzmacherin, Siebenmannsgasse 1.
+Crenner Joseph, Tagelöhner, Hellebardeng. 3.
+Crephen Alois, Tagelöhner, Langestr. 37.
+Cretin Emil, Gärtner, Colmarstr. 18.
+Criqui Franz, Tischler, Marxgasse 13.
+Franz Anton, Schuhmacher, Ochsenq. 6.
+Cromer Karl, Restaurateur, Gewerbslauben 2.
+Cron, geb. Braun, Julie, Pensionärin, Münster-gasse 27.
+Cronshagen Simon Heinrich, Montirungs-Depot-Controleur, Regenbogengasse 12.
+Crusius Herrmann, Proviantmeister, Akademie-strasse 3.
+Crystall Otto, Schriftsetzer, Kapaunengasse 8.
+Cubertefond Johann, Nagelschmied, Wilhelmer-strasse 13.
+Johann Heinrich, Nagelschmied, Blau Quartier 105.
+Michael, Nagelschmied, Kapaunengasse 2.
+Cucherou Dorothea, Rentnerin, Kreuzgasse 17.
+Cürlis Karl, Steuerbeamter, Langestr. 12.
+Cuisinier Karl, Maler, kl. Metzgerstr. 5.
+Cullmann Louis, Tagelöhner, Zabernwallstr. 21.
+Cunigel Martin, Gastwirth, Ballhausgasse 8.
+Cunitz Eduard, Professor, Schildgasse 2.
+Cuntz Eduard, Weisswaaren-Händler, Gewerbslaube 5.
+Eduard, Kaufmann, alte Korngasse 6.
+Friedrich, Spediteur, Schwanengasse 6.
+Cuny Honore Augustin, Specerei-Händler, St. Nicolausplatz 7.
+Joseph, Sattler, Metzgergiessen 24.
+Curbassier, geb. Kiener, Emilie, Rentnerin, alter Fischmarkt 44.
+Curot Alfred, Rentner, Zimmerleutgasse 13.
+Curtort Heinrich, Locomotivführer, Weisse-thurmstr. 18.
+Curvillier Therese, Rentnerin, Marxgasse 21.
+Cussler Theodor Jacob, Kaufmann, Münster-gasse 2.
+Cyanec Johann, Bremser, Sebastopolstr. 14.
+Czerwinsky Philipp, Maler, Helenengasse 19.
+Czikanen Therese, Wwe., Münstergasse 19.
+Daab Jacob, Schreiner, Metzgergiessen 19.
+Daber Clementine, Putzmacherin, Münster-gasse 24.
+Dach Friedr., Secretär an der Haupt-Steuer-Kasse, Burggasse 8.
+Karl, Commis, Knoblochsgasse 14.
+Dachert Friedrich, Wollwaaren-Fabrikant, Metzgergiessen 7.
+Friedr., Baumwollen-Fabrikant, Ochsen-gasse 1. u. 3.
+Karoline, Wäscherin, Colmarstr. 21.
+Salome, Näherin, Roth Quartier 261.
+Dacheux Eugen, Baumeister, Polygonstr. 42b.
+Leon, Pfarrer, Polygonstr. 43.
+Dachs Johann, Maurer, Neudorf, Kiesgruben-weg 8.
+Dacourt Joseph, Bank-Beamter, Fischerstaden 12-13.
+Däffler Karl, Tagelöhner, Blindengasse 16.
+Dägler Heinrich, Vergolder, Auf den Eis-gruben 4.
+Däselier Lorenz, Maurer, Roth Quartier 338.
+Däubel Lorenz, Tagelöhner, Finkweiler 37.
+Daffener Theobald, Schneider, St. Elisabeth-gasse 16.
+Dagon Joseph, Kassirer, Nikolausgässchen 3.
+Victor, Gerber, kl. Spitzengasse 1.
+Dahaut Emil, Papier-Fabrikant, Gewerbs-lauben 91.
+Dahinten Franz Joseph, Stadt-Beamter, gr. Urbanusweg 25b.
+Dahlem Jacob, Zimmermann, Roth Quart. 231.
+Dahlen Johann, Maurer, Kolbengasse 4.
+Dahlinger Karl, Buchbinder, Fischergasse 1.
+Karl, Ackermann, Roth Quartier 262.
